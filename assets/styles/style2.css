@@ -1,0 +1,36 @@
+body {
+  font-family: monospace;
+  background-color:#ffdef2;
+}
+
+h1 {
+  color:#ffffe3;
+  text-align: center;
+  font-size:250%;
+  text-shadow: 2px 2px #ff0000;
+}
+
+p, article {
+  display: block;
+  margin-top: 2em;
+  margin-bottom: 2em;
+  margin-left: 3em;
+  margin-right: 3em;
+}
+
+img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+aside {
+  width: 50%;
+  padding-left: 15px;
+  margin-left: 15px;
+  margin-bottom: 15px;
+  float: right;
+  font-style: italic;
+  background-color: #ddfffc;
+}

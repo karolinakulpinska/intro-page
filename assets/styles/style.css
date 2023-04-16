@@ -1,0 +1,41 @@
+body {
+  font-family: monospace;
+  background-color: papayawhip;
+}
+
+h1 {
+  color: pink;
+  text-align: center;
+  font-size:250%;
+  text-shadow: 2px 2px cyan;
+}
+
+img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+h2 {
+  color: pink;
+  text-align: center;
+  font-size: 200%;
+}
+
+div.container {
+  text-align: center;
+}
+
+ul.myUL {
+  display: inline-block;
+  text-align: left;
+}
+
+footer {
+  font-style: italic;
+  text-align: center;
+  color: #382411;
+  font-size: smaller;
+}
+
